@@ -1,0 +1,600 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AUDIO_BUF_SIZE	AVAPIs_Client.c	25;"	d	file:
+AUDIO_BUF_SIZE	AVAPIs_Server.c	78;"	d	file:
+AUDIO_CHANNEL_MONO	AVFRAMEINFO.h	/^	AUDIO_CHANNEL_MONO		= 0,$/;"	e	enum:__anon73
+AUDIO_CHANNEL_STERO	AVFRAMEINFO.h	/^	AUDIO_CHANNEL_STERO		= 1,$/;"	e	enum:__anon73
+AUDIO_CODEC	AVAPIs_Server.c	41;"	d	file:
+AUDIO_CODEC	AVAPIs_Server.c	46;"	d	file:
+AUDIO_CODEC	AVAPIs_Server.c	51;"	d	file:
+AUDIO_CODEC	AVAPIs_Server.c	56;"	d	file:
+AUDIO_CODEC	AVAPIs_Server.c	62;"	d	file:
+AUDIO_CODEC	AVAPIs_Server.c	68;"	d	file:
+AUDIO_CODEC	AVAPIs_Server.c	73;"	d	file:
+AUDIO_DATABITS_16	AVFRAMEINFO.h	/^	AUDIO_DATABITS_16		= 1,$/;"	e	enum:__anon72
+AUDIO_DATABITS_8	AVFRAMEINFO.h	/^	AUDIO_DATABITS_8		= 0,$/;"	e	enum:__anon72
+AUDIO_ENCODED_SIZE	AVAPIs_Server.c	60;"	d	file:
+AUDIO_ENCODED_SIZE	AVAPIs_Server.c	66;"	d	file:
+AUDIO_FORMAT_PCM	AVAPIs_Server.c	36;"	d	file:
+AUDIO_FPS	AVAPIs_Server.c	40;"	d	file:
+AUDIO_FPS	AVAPIs_Server.c	45;"	d	file:
+AUDIO_FPS	AVAPIs_Server.c	50;"	d	file:
+AUDIO_FPS	AVAPIs_Server.c	55;"	d	file:
+AUDIO_FPS	AVAPIs_Server.c	61;"	d	file:
+AUDIO_FPS	AVAPIs_Server.c	67;"	d	file:
+AUDIO_FPS	AVAPIs_Server.c	72;"	d	file:
+AUDIO_FRAME_SIZE	AVAPIs_Server.c	39;"	d	file:
+AUDIO_FRAME_SIZE	AVAPIs_Server.c	44;"	d	file:
+AUDIO_FRAME_SIZE	AVAPIs_Server.c	49;"	d	file:
+AUDIO_FRAME_SIZE	AVAPIs_Server.c	54;"	d	file:
+AUDIO_FRAME_SIZE	AVAPIs_Server.c	59;"	d	file:
+AUDIO_FRAME_SIZE	AVAPIs_Server.c	65;"	d	file:
+AUDIO_FRAME_SIZE	AVAPIs_Server.c	71;"	d	file:
+AUDIO_SAMPLE_11K	AVFRAMEINFO.h	/^	AUDIO_SAMPLE_11K		= 0x01,$/;"	e	enum:__anon71
+AUDIO_SAMPLE_12K	AVFRAMEINFO.h	/^	AUDIO_SAMPLE_12K		= 0x02,$/;"	e	enum:__anon71
+AUDIO_SAMPLE_16K	AVFRAMEINFO.h	/^	AUDIO_SAMPLE_16K		= 0x03,$/;"	e	enum:__anon71
+AUDIO_SAMPLE_22K	AVFRAMEINFO.h	/^	AUDIO_SAMPLE_22K		= 0x04,$/;"	e	enum:__anon71
+AUDIO_SAMPLE_24K	AVFRAMEINFO.h	/^	AUDIO_SAMPLE_24K		= 0x05,$/;"	e	enum:__anon71
+AUDIO_SAMPLE_32K	AVFRAMEINFO.h	/^	AUDIO_SAMPLE_32K		= 0x06,$/;"	e	enum:__anon71
+AUDIO_SAMPLE_44K	AVFRAMEINFO.h	/^	AUDIO_SAMPLE_44K		= 0x07,$/;"	e	enum:__anon71
+AUDIO_SAMPLE_48K	AVFRAMEINFO.h	/^	AUDIO_SAMPLE_48K		= 0x08,$/;"	e	enum:__anon71
+AUDIO_SAMPLE_8K	AVFRAMEINFO.h	/^	AUDIO_SAMPLE_8K			= 0x00,$/;"	e	enum:__anon71
+AUDIO_STREAM_OUT_CH	AVAPIs_Client.c	22;"	d	file:
+AVIOCTRL_AUTO_PAN_LIMIT	AVIOCTRLDEFs.h	/^	AVIOCTRL_AUTO_PAN_LIMIT				= 28,$/;"	e	enum:__anon12
+AVIOCTRL_AUTO_PAN_SPEED	AVIOCTRLDEFs.h	/^	AVIOCTRL_AUTO_PAN_SPEED				= 27,$/;"	e	enum:__anon12
+AVIOCTRL_AUTO_PAN_START	AVIOCTRLDEFs.h	/^	AVIOCTRL_AUTO_PAN_START				= 29,$/;"	e	enum:__anon12
+AVIOCTRL_CLEAR_AUX	AVIOCTRLDEFs.h	/^	AVIOCTRL_CLEAR_AUX					= 34,$/;"	e	enum:__anon12
+AVIOCTRL_ENVIRONMENT_INDOOR_50HZ	AVIOCTRLDEFs.h	/^	AVIOCTRL_ENVIRONMENT_INDOOR_50HZ 	= 0x00,$/;"	e	enum:__anon10
+AVIOCTRL_ENVIRONMENT_INDOOR_60HZ	AVIOCTRLDEFs.h	/^	AVIOCTRL_ENVIRONMENT_INDOOR_60HZ	= 0x01,$/;"	e	enum:__anon10
+AVIOCTRL_ENVIRONMENT_NIGHT	AVIOCTRLDEFs.h	/^	AVIOCTRL_ENVIRONMENT_NIGHT			= 0x03,	$/;"	e	enum:__anon10
+AVIOCTRL_ENVIRONMENT_OUTDOOR	AVIOCTRLDEFs.h	/^	AVIOCTRL_ENVIRONMENT_OUTDOOR		= 0x02,$/;"	e	enum:__anon10
+AVIOCTRL_ERR	AVIOCTRLDEFs.h	/^	AVIOCTRL_ERR				= -0x01,$/;"	e	enum:__anon2
+AVIOCTRL_ERR_DEVICEINFO	AVIOCTRLDEFs.h	/^	AVIOCTRL_ERR_DEVICEINFO		= AVIOCTRL_ERR - 0x04,$/;"	e	enum:__anon2
+AVIOCTRL_ERR_GETWIFI	AVIOCTRLDEFs.h	/^	AVIOCTRL_ERR_GETWIFI		= AVIOCTRL_ERR - 8,$/;"	e	enum:__anon2
+AVIOCTRL_ERR_INVALIDCHANNEL	AVIOCTRLDEFs.h	/^	AVIOCTRL_ERR_INVALIDCHANNEL	= AVIOCTRL_ERR - 0x20,$/;"	e	enum:__anon2
+AVIOCTRL_ERR_LISTEVENT	AVIOCTRLDEFs.h	/^	AVIOCTRL_ERR_LISTEVENT		= AVIOCTRL_ERR - 11,$/;"	e	enum:__anon2
+AVIOCTRL_ERR_LISTWIFIAP	AVIOCTRLDEFs.h	/^	AVIOCTRL_ERR_LISTWIFIAP		= AVIOCTRL_ERR - 6,$/;"	e	enum:__anon2
+AVIOCTRL_ERR_LOGIN	AVIOCTRLDEFs.h	/^	AVIOCTRL_ERR_LOGIN			= AVIOCTRL_ERR - 5,$/;"	e	enum:__anon2
+AVIOCTRL_ERR_MONTIONDETECT	AVIOCTRLDEFs.h	/^	AVIOCTRL_ERR_MONTIONDETECT	= AVIOCTRL_ERR - 0x03,$/;"	e	enum:__anon2
+AVIOCTRL_ERR_PASSWORD	AVIOCTRLDEFs.h	/^	AVIOCTRL_ERR_PASSWORD		= AVIOCTRL_ERR - 0x01,$/;"	e	enum:__anon2
+AVIOCTRL_ERR_PLAYBACK	AVIOCTRLDEFs.h	/^	AVIOCTRL_ERR_PLAYBACK		= AVIOCTRL_ERR - 12,$/;"	e	enum:__anon2
+AVIOCTRL_ERR_SETRCDDURA	AVIOCTRLDEFs.h	/^	AVIOCTRL_ERR_SETRCDDURA		= AVIOCTRL_ERR - 10,$/;"	e	enum:__anon2
+AVIOCTRL_ERR_SETRECORD	AVIOCTRLDEFs.h	/^	AVIOCTRL_ERR_SETRECORD		= AVIOCTRL_ERR - 9,$/;"	e	enum:__anon2
+AVIOCTRL_ERR_SETWIFI	AVIOCTRLDEFs.h	/^	AVIOCTRL_ERR_SETWIFI		= AVIOCTRL_ERR - 7,$/;"	e	enum:__anon2
+AVIOCTRL_ERR_STREAMCTRL	AVIOCTRLDEFs.h	/^	AVIOCTRL_ERR_STREAMCTRL		= AVIOCTRL_ERR - 0x02,$/;"	e	enum:__anon2
+AVIOCTRL_EVENT_ALL	AVIOCTRLDEFs.h	/^	AVIOCTRL_EVENT_ALL					= 0x00,	\/\/ all event type(general APP-->IPCamera)$/;"	e	enum:__anon7
+AVIOCTRL_EVENT_EXPT_REBOOT	AVIOCTRLDEFs.h	/^	AVIOCTRL_EVENT_EXPT_REBOOT			= 0x10, \/\/ system exception reboot$/;"	e	enum:__anon7
+AVIOCTRL_EVENT_IOALARM	AVIOCTRLDEFs.h	/^	AVIOCTRL_EVENT_IOALARM				= 0x03, \/\/ io alarmin start \/\/---s--$/;"	e	enum:__anon7
+AVIOCTRL_EVENT_IOALARMPASS	AVIOCTRLDEFs.h	/^	AVIOCTRL_EVENT_IOALARMPASS			= 0x06, \/\/ IO alarmin end   \/\/---e--$/;"	e	enum:__anon7
+AVIOCTRL_EVENT_MOTIONDECT	AVIOCTRLDEFs.h	/^	AVIOCTRL_EVENT_MOTIONDECT			= 0x01,	\/\/ motion detect start\/\/==s==$/;"	e	enum:__anon7
+AVIOCTRL_EVENT_MOTIONPASS	AVIOCTRLDEFs.h	/^	AVIOCTRL_EVENT_MOTIONPASS			= 0x04, \/\/ motion detect end  \/\/==e==$/;"	e	enum:__anon7
+AVIOCTRL_EVENT_SDFAULT	AVIOCTRLDEFs.h	/^	AVIOCTRL_EVENT_SDFAULT				= 0x11, \/\/ sd record exception$/;"	e	enum:__anon7
+AVIOCTRL_EVENT_VIDEOLOST	AVIOCTRLDEFs.h	/^	AVIOCTRL_EVENT_VIDEOLOST			= 0x02,	\/\/ video lost alarm$/;"	e	enum:__anon7
+AVIOCTRL_EVENT_VIDEORESUME	AVIOCTRLDEFs.h	/^	AVIOCTRL_EVENT_VIDEORESUME			= 0x05,	\/\/ video resume$/;"	e	enum:__anon7
+AVIOCTRL_LENS_APERTURE_CLOSE	AVIOCTRLDEFs.h	/^	AVIOCTRL_LENS_APERTURE_CLOSE		= 22,$/;"	e	enum:__anon12
+AVIOCTRL_LENS_APERTURE_OPEN	AVIOCTRLDEFs.h	/^	AVIOCTRL_LENS_APERTURE_OPEN			= 21,$/;"	e	enum:__anon12
+AVIOCTRL_LENS_FOCAL_FAR	AVIOCTRLDEFs.h	/^	AVIOCTRL_LENS_FOCAL_FAR				= 26,$/;"	e	enum:__anon12
+AVIOCTRL_LENS_FOCAL_NEAR	AVIOCTRLDEFs.h	/^	AVIOCTRL_LENS_FOCAL_NEAR			= 25,$/;"	e	enum:__anon12
+AVIOCTRL_LENS_ZOOM_IN	AVIOCTRLDEFs.h	/^	AVIOCTRL_LENS_ZOOM_IN				= 23, $/;"	e	enum:__anon12
+AVIOCTRL_LENS_ZOOM_OUT	AVIOCTRLDEFs.h	/^	AVIOCTRL_LENS_ZOOM_OUT				= 24,$/;"	e	enum:__anon12
+AVIOCTRL_MOTOR_RESET_POSITION	AVIOCTRLDEFs.h	/^	AVIOCTRL_MOTOR_RESET_POSITION		= 35,$/;"	e	enum:__anon12
+AVIOCTRL_OK	AVIOCTRLDEFs.h	/^	AVIOCTRL_OK					= 0x00,$/;"	e	enum:__anon2
+AVIOCTRL_PATTERN_RUN	AVIOCTRLDEFs.h	/^	AVIOCTRL_PATTERN_RUN				= 32,$/;"	e	enum:__anon12
+AVIOCTRL_PATTERN_START	AVIOCTRLDEFs.h	/^	AVIOCTRL_PATTERN_START				= 30,$/;"	e	enum:__anon12
+AVIOCTRL_PATTERN_STOP	AVIOCTRLDEFs.h	/^	AVIOCTRL_PATTERN_STOP				= 31,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_AUTO	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_AUTO					= 9, $/;"	e	enum:__anon12
+AVIOCTRL_PTZ_CLEAR_POINT	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_CLEAR_POINT			= 11,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_DOWN	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_DOWN					= 2,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_FLIP	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_FLIP					= 19,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_GOTO_POINT	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_GOTO_POINT				= 12,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_LEFT	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_LEFT					= 3,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_LEFT_DOWN	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_LEFT_DOWN				= 5,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_LEFT_UP	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_LEFT_UP				= 4,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_MENU_ENTER	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_MENU_ENTER				= 18,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_MENU_EXIT	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_MENU_EXIT				= 17,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_MENU_OPEN	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_MENU_OPEN				= 16, $/;"	e	enum:__anon12
+AVIOCTRL_PTZ_MODE_RUN	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_MODE_RUN				= 15,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_RIGHT	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_RIGHT					= 6, $/;"	e	enum:__anon12
+AVIOCTRL_PTZ_RIGHT_DOWN	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_RIGHT_DOWN				= 8, $/;"	e	enum:__anon12
+AVIOCTRL_PTZ_RIGHT_UP	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_RIGHT_UP				= 7, $/;"	e	enum:__anon12
+AVIOCTRL_PTZ_SET_MODE_START	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_SET_MODE_START			= 13,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_SET_MODE_STOP	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_SET_MODE_STOP			= 14,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_SET_POINT	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_SET_POINT				= 10,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_START	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_START					= 20,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_STOP	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_STOP					= 0,$/;"	e	enum:__anon12
+AVIOCTRL_PTZ_UP	AVIOCTRLDEFs.h	/^	AVIOCTRL_PTZ_UP						= 1,$/;"	e	enum:__anon12
+AVIOCTRL_QUALITY_HIGH	AVIOCTRLDEFs.h	/^	AVIOCTRL_QUALITY_HIGH				= 0x02,	\/\/ ex. 640*480, 10fps, 256kbps$/;"	e	enum:__anon4
+AVIOCTRL_QUALITY_LOW	AVIOCTRLDEFs.h	/^	AVIOCTRL_QUALITY_LOW				= 0x04, \/\/ ex. 320*240, 10fps, 128kbps$/;"	e	enum:__anon4
+AVIOCTRL_QUALITY_MAX	AVIOCTRLDEFs.h	/^	AVIOCTRL_QUALITY_MAX				= 0x01,	\/\/ ex. 640*480, 15fps, 320kbps (or 1280x720, 5fps, 320kbps)$/;"	e	enum:__anon4
+AVIOCTRL_QUALITY_MIDDLE	AVIOCTRLDEFs.h	/^	AVIOCTRL_QUALITY_MIDDLE				= 0x03,	\/\/ ex. 320*240, 15fps, 256kbps$/;"	e	enum:__anon4
+AVIOCTRL_QUALITY_MIN	AVIOCTRLDEFs.h	/^	AVIOCTRL_QUALITY_MIN				= 0x05,	\/\/ ex. 160*120, 10fps, 64kbps$/;"	e	enum:__anon4
+AVIOCTRL_QUALITY_UNKNOWN	AVIOCTRLDEFs.h	/^	AVIOCTRL_QUALITY_UNKNOWN			= 0x00,	$/;"	e	enum:__anon4
+AVIOCTRL_RECORD_PLAY_BACKWARD	AVIOCTRLDEFs.h	/^	AVIOCTRL_RECORD_PLAY_BACKWARD		= 0x05, \/\/now, APP no use$/;"	e	enum:__anon9
+AVIOCTRL_RECORD_PLAY_END	AVIOCTRLDEFs.h	/^	AVIOCTRL_RECORD_PLAY_END			= 0x07,$/;"	e	enum:__anon9
+AVIOCTRL_RECORD_PLAY_FORWARD	AVIOCTRLDEFs.h	/^	AVIOCTRL_RECORD_PLAY_FORWARD		= 0x04, \/\/now, APP no use$/;"	e	enum:__anon9
+AVIOCTRL_RECORD_PLAY_PAUSE	AVIOCTRLDEFs.h	/^	AVIOCTRL_RECORD_PLAY_PAUSE			= 0x00,$/;"	e	enum:__anon9
+AVIOCTRL_RECORD_PLAY_SEEKTIME	AVIOCTRLDEFs.h	/^	AVIOCTRL_RECORD_PLAY_SEEKTIME		= 0x06, \/\/now, APP no use$/;"	e	enum:__anon9
+AVIOCTRL_RECORD_PLAY_START	AVIOCTRLDEFs.h	/^	AVIOCTRL_RECORD_PLAY_START			= 0x10,$/;"	e	enum:__anon9
+AVIOCTRL_RECORD_PLAY_STEPBACKWARD	AVIOCTRLDEFs.h	/^	AVIOCTRL_RECORD_PLAY_STEPBACKWARD	= 0x03, \/\/now, APP no use$/;"	e	enum:__anon9
+AVIOCTRL_RECORD_PLAY_STEPFORWARD	AVIOCTRLDEFs.h	/^	AVIOCTRL_RECORD_PLAY_STEPFORWARD	= 0x02, \/\/now, APP no use$/;"	e	enum:__anon9
+AVIOCTRL_RECORD_PLAY_STOP	AVIOCTRLDEFs.h	/^	AVIOCTRL_RECORD_PLAY_STOP			= 0x01,$/;"	e	enum:__anon9
+AVIOCTRL_SET_AUX	AVIOCTRLDEFs.h	/^	AVIOCTRL_SET_AUX					= 33,$/;"	e	enum:__anon12
+AVIOCTRL_VIDEOMODE_FLIP	AVIOCTRLDEFs.h	/^	AVIOCTRL_VIDEOMODE_FLIP				= 0x01,$/;"	e	enum:__anon11
+AVIOCTRL_VIDEOMODE_FLIP_MIRROR	AVIOCTRLDEFs.h	/^	AVIOCTRL_VIDEOMODE_FLIP_MIRROR 		= 0x03,$/;"	e	enum:__anon11
+AVIOCTRL_VIDEOMODE_MIRROR	AVIOCTRLDEFs.h	/^	AVIOCTRL_VIDEOMODE_MIRROR			= 0x02,$/;"	e	enum:__anon11
+AVIOCTRL_VIDEOMODE_NORMAL	AVIOCTRLDEFs.h	/^	AVIOCTRL_VIDEOMODE_NORMAL 			= 0x00,$/;"	e	enum:__anon11
+AVIOTC_RECORDTYPE_ALARM	AVIOCTRLDEFs.h	/^	AVIOTC_RECORDTYPE_ALARM				= 0x02,$/;"	e	enum:__anon8
+AVIOTC_RECORDTYPE_FULLTIME	AVIOCTRLDEFs.h	/^	AVIOTC_RECORDTYPE_FULLTIME			= 0x01,$/;"	e	enum:__anon8
+AVIOTC_RECORDTYPE_MANUAL	AVIOCTRLDEFs.h	/^	AVIOTC_RECORDTYPE_MANUAL			= 0x03,$/;"	e	enum:__anon8
+AVIOTC_RECORDTYPE_OFF	AVIOCTRLDEFs.h	/^	AVIOTC_RECORDTYPE_OFF				= 0x00,$/;"	e	enum:__anon8
+AVIOTC_WIFIAPENC_INVALID	AVIOCTRLDEFs.h	/^	AVIOTC_WIFIAPENC_INVALID			= 0x00, $/;"	e	enum:__anon6
+AVIOTC_WIFIAPENC_NONE	AVIOCTRLDEFs.h	/^	AVIOTC_WIFIAPENC_NONE				= 0x01, \/\/$/;"	e	enum:__anon6
+AVIOTC_WIFIAPENC_WEP	AVIOCTRLDEFs.h	/^	AVIOTC_WIFIAPENC_WEP				= 0x02, \/\/WEP, for no password$/;"	e	enum:__anon6
+AVIOTC_WIFIAPENC_WPA2_AES	AVIOCTRLDEFs.h	/^	AVIOTC_WIFIAPENC_WPA2_AES			= 0x06,$/;"	e	enum:__anon6
+AVIOTC_WIFIAPENC_WPA2_PSK_AES	AVIOCTRLDEFs.h	/^	AVIOTC_WIFIAPENC_WPA2_PSK_AES  = 0x0A,$/;"	e	enum:__anon6
+AVIOTC_WIFIAPENC_WPA2_PSK_TKIP	AVIOCTRLDEFs.h	/^	AVIOTC_WIFIAPENC_WPA2_PSK_TKIP = 0x09,$/;"	e	enum:__anon6
+AVIOTC_WIFIAPENC_WPA2_TKIP	AVIOCTRLDEFs.h	/^	AVIOTC_WIFIAPENC_WPA2_TKIP			= 0x05, $/;"	e	enum:__anon6
+AVIOTC_WIFIAPENC_WPA_AES	AVIOCTRLDEFs.h	/^	AVIOTC_WIFIAPENC_WPA_AES			= 0x04, $/;"	e	enum:__anon6
+AVIOTC_WIFIAPENC_WPA_PSK_AES	AVIOCTRLDEFs.h	/^	AVIOTC_WIFIAPENC_WPA_PSK_AES   = 0x08,$/;"	e	enum:__anon6
+AVIOTC_WIFIAPENC_WPA_PSK_TKIP	AVIOCTRLDEFs.h	/^	AVIOTC_WIFIAPENC_WPA_PSK_TKIP  = 0x07,$/;"	e	enum:__anon6
+AVIOTC_WIFIAPENC_WPA_TKIP	AVIOCTRLDEFs.h	/^	AVIOTC_WIFIAPENC_WPA_TKIP			= 0x03, $/;"	e	enum:__anon6
+AVIOTC_WIFIAPMODE_ADHOC	AVIOCTRLDEFs.h	/^	AVIOTC_WIFIAPMODE_ADHOC				= 0x02,$/;"	e	enum:__anon5
+AVIOTC_WIFIAPMODE_MANAGED	AVIOCTRLDEFs.h	/^	AVIOTC_WIFIAPMODE_MANAGED			= 0x01,$/;"	e	enum:__anon5
+AVIOTC_WIFIAPMODE_NULL	AVIOCTRLDEFs.h	/^	AVIOTC_WIFIAPMODE_NULL				= 0x00,$/;"	e	enum:__anon5
+AV_Client	AVAPIs_Server.c	/^}AV_Client;$/;"	t	typeref:struct:_AV_Client	file:
+AV_Server	AVAPIs_Client.c	/^}AV_Server;$/;"	t	typeref:struct:_AV_Server	file:
+AdpcmEncode	AVAPIs_Server.c	/^void AdpcmEncode(unsigned char *pRaw, int nLenRaw, unsigned char *pBufEncoded)$/;"	f
+AuthCallBackFn	AVAPIs_Server.c	/^int AuthCallBackFn(char *viewAcc,char *viewPwd)$/;"	f
+CC	Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CFLAGS	Makefile	/^        CFLAGS=-m32$/;"	m
+DeInitAVInfo	AVAPIs_Server.c	/^void DeInitAVInfo()$/;"	f
+ENABLE_AUDIO	AVAPIs_Client.c	18;"	d	file:
+ENABLE_SPEAKER	AVAPIs_Client.c	19;"	d	file:
+ENUM_AP_ENCTYPE	AVIOCTRLDEFs.h	/^}ENUM_AP_ENCTYPE;$/;"	t	typeref:enum:__anon6
+ENUM_AP_MODE	AVIOCTRLDEFs.h	/^}ENUM_AP_MODE;$/;"	t	typeref:enum:__anon5
+ENUM_AUDIO_CHANNEL	AVFRAMEINFO.h	/^}ENUM_AUDIO_CHANNEL;$/;"	t	typeref:enum:__anon73
+ENUM_AUDIO_DATABITS	AVFRAMEINFO.h	/^}ENUM_AUDIO_DATABITS;$/;"	t	typeref:enum:__anon72
+ENUM_AUDIO_SAMPLERATE	AVFRAMEINFO.h	/^}ENUM_AUDIO_SAMPLERATE;$/;"	t	typeref:enum:__anon71
+ENUM_AVIOCTRL_ERROR	AVIOCTRLDEFs.h	/^}ENUM_AVIOCTRL_ERROR; \/\/APP don't use it now$/;"	t	typeref:enum:__anon2
+ENUM_AVIOCTRL_MSGTYPE	AVIOCTRLDEFs.h	/^}ENUM_AVIOCTRL_MSGTYPE;$/;"	t	typeref:enum:__anon1
+ENUM_CODECID	AVFRAMEINFO.h	/^}ENUM_CODECID;$/;"	t	typeref:enum:__anon69
+ENUM_ENVIRONMENT_MODE	AVIOCTRLDEFs.h	/^}ENUM_ENVIRONMENT_MODE;$/;"	t	typeref:enum:__anon10
+ENUM_EVENTTYPE	AVIOCTRLDEFs.h	/^}ENUM_EVENTTYPE;$/;"	t	typeref:enum:__anon7
+ENUM_FRAMEFLAG	AVFRAMEINFO.h	/^}ENUM_FRAMEFLAG;$/;"	t	typeref:enum:__anon70
+ENUM_PLAYCONTROL	AVIOCTRLDEFs.h	/^}ENUM_PLAYCONTROL;$/;"	t	typeref:enum:__anon9
+ENUM_PTZCMD	AVIOCTRLDEFs.h	/^}ENUM_PTZCMD;$/;"	t	typeref:enum:__anon12
+ENUM_QUALITY_LEVEL	AVIOCTRLDEFs.h	/^}ENUM_QUALITY_LEVEL;$/;"	t	typeref:enum:__anon4
+ENUM_RECORD_TYPE	AVIOCTRLDEFs.h	/^}ENUM_RECORD_TYPE;$/;"	t	typeref:enum:__anon8
+ENUM_SERVICE_TYPE	AVIOCTRLDEFs.h	/^}ENUM_SERVICE_TYPE;$/;"	t	typeref:enum:__anon3
+ENUM_VIDEO_MODE	AVIOCTRLDEFs.h	/^}ENUM_VIDEO_MODE;$/;"	t	typeref:enum:__anon11
+FPS	AVAPIs_Server.c	29;"	d	file:
+FRAMEINFO_t	AVFRAMEINFO.h	/^}FRAMEINFO_t;$/;"	t	typeref:struct:_FRAMEINFO
+Handle_IOCTRL_Cmd	AVAPIs_Server.c	/^void Handle_IOCTRL_Cmd(int SID, int avIndex, char *buf, int type)$/;"	f
+IOTYPE_USER_CMD_MAX	AVIOCTRLDEFs.h	/^    IOTYPE_USER_CMD_MAX$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_AUDIOSTART	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_AUDIOSTART 				= 0x0300,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_AUDIOSTOP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_AUDIOSTOP 				= 0x0301,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_CURRENT_FLOWINFO	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_CURRENT_FLOWINFO			= 0x0392,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_DEVINFO_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_DEVINFO_REQ				= 0x0330,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_DEVINFO_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_DEVINFO_RESP				= 0x0331,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_EVENT_REPORT	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_EVENT_REPORT				= 0x1FFF,	\/\/ Device Event Report Msg$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_FORMATEXTSTORAGE_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_FORMATEXTSTORAGE_REQ		= 0x0380,	\/\/ Format external storage$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_FORMATEXTSTORAGE_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_FORMATEXTSTORAGE_RESP		= 0x0381,	$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GETAUDIOOUTFORMAT_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GETAUDIOOUTFORMAT_REQ		= 0x032A,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GETAUDIOOUTFORMAT_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GETAUDIOOUTFORMAT_RESP	= 0x032B,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GETMOTIONDETECT_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GETMOTIONDETECT_REQ		= 0x0326,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GETMOTIONDETECT_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GETMOTIONDETECT_RESP		= 0x0327,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GETRCD_DURATION_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GETRCD_DURATION_REQ		= 0x0316,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GETRCD_DURATION_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GETRCD_DURATION_RESP  	= 0x0317,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GETRECORD_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GETRECORD_REQ				= 0x0312,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GETRECORD_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GETRECORD_RESP			= 0x0313,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GETSTREAMCTRL_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GETSTREAMCTRL_REQ			= 0x0322,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GETSTREAMCTRL_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GETSTREAMCTRL_RESP		= 0x0323,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GETSUPPORTSTREAM_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GETSUPPORTSTREAM_REQ		= 0x0328,	\/\/ Get Support Stream$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GETSUPPORTSTREAM_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GETSUPPORTSTREAM_RESP		= 0x0329,	$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GETWIFI_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GETWIFI_REQ				= 0x0344,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GETWIFI_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GETWIFI_RESP				= 0x0345,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GETWIFI_RESP_2	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GETWIFI_RESP_2			= 0x0347,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GET_ENVIRONMENT_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GET_ENVIRONMENT_REQ		= 0x0362,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GET_ENVIRONMENT_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GET_ENVIRONMENT_RESP		= 0x0363,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GET_EVENTCONFIG_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GET_EVENTCONFIG_REQ		= 0x0400,	\/\/ Get Event Config Msg Request$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GET_EVENTCONFIG_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GET_EVENTCONFIG_RESP		= 0x0401,	\/\/ Get Event Config Msg Response$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GET_FLOWINFO_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GET_FLOWINFO_REQ			= 0x0390,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GET_FLOWINFO_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GET_FLOWINFO_RESP			= 0x0391,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GET_SAVE_DROPBOX_REQ	AVIOCTRLDEFs.h	/^    IOTYPE_USER_IPCAM_GET_SAVE_DROPBOX_REQ      = 0x500,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GET_SAVE_DROPBOX_RESP	AVIOCTRLDEFs.h	/^    IOTYPE_USER_IPCAM_GET_SAVE_DROPBOX_RESP     = 0x501,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GET_TIMEZONE_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GET_TIMEZONE_REQ          = 0x3A0,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GET_TIMEZONE_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GET_TIMEZONE_RESP         = 0x3A1,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GET_VIDEOMODE_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GET_VIDEOMODE_REQ			= 0x0372,	\/\/ Get Video Flip Mode$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_GET_VIDEOMODE_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_GET_VIDEOMODE_RESP		= 0x0373,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_LISTEVENT_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_LISTEVENT_REQ				= 0x0318,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_LISTEVENT_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_LISTEVENT_RESP			= 0x0319,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_LISTWIFIAP_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_LISTWIFIAP_REQ			= 0x0340,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_LISTWIFIAP_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_LISTWIFIAP_RESP			= 0x0341,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_PTZ_COMMAND	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_PTZ_COMMAND				= 0x1001,	\/\/ P2P PTZ Command Msg$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_RECEIVE_FIRST_IFRAME	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_RECEIVE_FIRST_IFRAME		= 0x1002,	\/\/ Send from client, used to talk to device that$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_RECORD_PLAYCONTROL	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_RECORD_PLAYCONTROL 		= 0x031A,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_RECORD_PLAYCONTROL_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_RECORD_PLAYCONTROL_RESP 	= 0x031B,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SETMOTIONDETECT_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SETMOTIONDETECT_REQ		= 0x0324,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SETMOTIONDETECT_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SETMOTIONDETECT_RESP		= 0x0325,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SETPASSWORD_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SETPASSWORD_REQ			= 0x0332,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SETPASSWORD_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SETPASSWORD_RESP			= 0x0333,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SETRCD_DURATION_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SETRCD_DURATION_REQ		= 0x0314,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SETRCD_DURATION_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SETRCD_DURATION_RESP  	= 0x0315,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SETRECORD_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SETRECORD_REQ				= 0x0310,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SETRECORD_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SETRECORD_RESP			= 0x0311,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SETSTREAMCTRL_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SETSTREAMCTRL_REQ			= 0x0320,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SETSTREAMCTRL_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SETSTREAMCTRL_RESP		= 0x0321,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SETWIFI_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SETWIFI_REQ				= 0x0342,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SETWIFI_REQ_2	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SETWIFI_REQ_2				= 0x0346,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SETWIFI_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SETWIFI_RESP				= 0x0343,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SET_ENVIRONMENT_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SET_ENVIRONMENT_REQ		= 0x0360,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SET_ENVIRONMENT_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SET_ENVIRONMENT_RESP		= 0x0361,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SET_EVENTCONFIG_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SET_EVENTCONFIG_REQ		= 0x0402,	\/\/ Set Event Config Msg req$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SET_EVENTCONFIG_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SET_EVENTCONFIG_RESP		= 0x0403,	\/\/ Set Event Config Msg resp$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SET_SAVE_DROPBOX_REQ	AVIOCTRLDEFs.h	/^    IOTYPE_USER_IPCAM_SET_SAVE_DROPBOX_REQ      = 0x502,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SET_SAVE_DROPBOX_RESP	AVIOCTRLDEFs.h	/^    IOTYPE_USER_IPCAM_SET_SAVE_DROPBOX_RESP     = 0x503,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SET_TIMEZONE_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SET_TIMEZONE_REQ          = 0x3B0,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SET_TIMEZONE_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SET_TIMEZONE_RESP         = 0x3B1,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SET_VIDEOMODE_REQ	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SET_VIDEOMODE_REQ			= 0x0370,	\/\/ Set Video Flip Mode$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SET_VIDEOMODE_RESP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SET_VIDEOMODE_RESP		= 0x0371,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SPEAKERSTART	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SPEAKERSTART 				= 0x0350,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_SPEAKERSTOP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_SPEAKERSTOP 				= 0x0351,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_START	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_START 					= 0x01FF,$/;"	e	enum:__anon1
+IOTYPE_USER_IPCAM_STOP	AVIOCTRLDEFs.h	/^	IOTYPE_USER_IPCAM_STOP	 					= 0x02FF,$/;"	e	enum:__anon1
+IPC_FRAME_FLAG_IFRAME	AVFRAMEINFO.h	/^	IPC_FRAME_FLAG_IFRAME	= 0x01,	\/\/ A\/V I frame.$/;"	e	enum:__anon70
+IPC_FRAME_FLAG_IO	AVFRAMEINFO.h	/^	IPC_FRAME_FLAG_IO		= 0x03,	\/\/ For Alarm IO detection.$/;"	e	enum:__anon70
+IPC_FRAME_FLAG_MD	AVFRAMEINFO.h	/^	IPC_FRAME_FLAG_MD		= 0x02,	\/\/ For motion detection.$/;"	e	enum:__anon70
+IPC_FRAME_FLAG_PBFRAME	AVFRAMEINFO.h	/^	IPC_FRAME_FLAG_PBFRAME	= 0x00,	\/\/ A\/V P\/B frame..$/;"	e	enum:__anon70
+InitAVInfo	AVAPIs_Server.c	/^void InitAVInfo()$/;"	f
+LoginInfoCB	AVAPIs_Server.c	/^void LoginInfoCB(unsigned int nLoginInfo)$/;"	f
+MAX_AV_CHANNEL_NUMBER	AVAPIs_Server.c	26;"	d	file:
+MAX_CLIENT_NUMBER	AVAPIs_Server.c	24;"	d	file:
+MAX_SERVER_NUMBER	AVAPIs_Client.c	27;"	d	file:
+MAX_SIZE_IOCTRL_BUF	AVAPIs_Client.c	23;"	d	file:
+MAX_SIZE_IOCTRL_BUF	AVAPIs_Server.c	25;"	d	file:
+MEDIA_CODEC_AUDIO_AAC	AVFRAMEINFO.h	/^    MEDIA_CODEC_AUDIO_AAC       = 0x88,   \/\/ 2014-07-02 add AAC audio codec definition$/;"	e	enum:__anon69
+MEDIA_CODEC_AUDIO_ADPCM	AVFRAMEINFO.h	/^    MEDIA_CODEC_AUDIO_ADPCM     = 0X8B,$/;"	e	enum:__anon69
+MEDIA_CODEC_AUDIO_G711A	AVFRAMEINFO.h	/^    MEDIA_CODEC_AUDIO_G711A     = 0x8A,   \/\/g711 a-law	$/;"	e	enum:__anon69
+MEDIA_CODEC_AUDIO_G711U	AVFRAMEINFO.h	/^    MEDIA_CODEC_AUDIO_G711U     = 0x89,   \/\/g711 u-law$/;"	e	enum:__anon69
+MEDIA_CODEC_AUDIO_G726	AVFRAMEINFO.h	/^    MEDIA_CODEC_AUDIO_G726      = 0x8F,$/;"	e	enum:__anon69
+MEDIA_CODEC_AUDIO_MP3	AVFRAMEINFO.h	/^	MEDIA_CODEC_AUDIO_MP3		= 0x8E,$/;"	e	enum:__anon69
+MEDIA_CODEC_AUDIO_PCM	AVFRAMEINFO.h	/^	MEDIA_CODEC_AUDIO_PCM		= 0x8C,$/;"	e	enum:__anon69
+MEDIA_CODEC_AUDIO_SPEEX	AVFRAMEINFO.h	/^	MEDIA_CODEC_AUDIO_SPEEX		= 0x8D,$/;"	e	enum:__anon69
+MEDIA_CODEC_UNKNOWN	AVFRAMEINFO.h	/^	MEDIA_CODEC_UNKNOWN			= 0x00,$/;"	e	enum:__anon69
+MEDIA_CODEC_VIDEO_H263	AVFRAMEINFO.h	/^	MEDIA_CODEC_VIDEO_H263		= 0x4D,$/;"	e	enum:__anon69
+MEDIA_CODEC_VIDEO_H264	AVFRAMEINFO.h	/^	MEDIA_CODEC_VIDEO_H264		= 0x4E,$/;"	e	enum:__anon69
+MEDIA_CODEC_VIDEO_MJPEG	AVFRAMEINFO.h	/^	MEDIA_CODEC_VIDEO_MJPEG		= 0x4F,$/;"	e	enum:__anon69
+MEDIA_CODEC_VIDEO_MPEG4	AVFRAMEINFO.h	/^	MEDIA_CODEC_VIDEO_MPEG4		= 0x4C,$/;"	e	enum:__anon69
+Param	AVIOCTRLDEFs.h	/^	unsigned int Param;		\/\/ command param, that the user defined$/;"	m	struct:__anon43
+PrintErrHandling	AVAPIs_Client.c	/^void PrintErrHandling (int nErr)$/;"	f
+PrintErrHandling	AVAPIs_Server.c	/^void PrintErrHandling (int nErr)$/;"	f
+SAvEvent	AVIOCTRLDEFs.h	/^}SAvEvent;$/;"	t	typeref:struct:__anon41
+SERVTYPE_IOTCAM_8125	AVIOCTRLDEFs.h	/^	SERVTYPE_IOTCAM_8125				= 0x10,$/;"	e	enum:__anon3
+SERVTYPE_IOTCAM_8125PT	AVIOCTRLDEFs.h	/^	SERVTYPE_IOTCAM_8125PT				= 0x11,$/;"	e	enum:__anon3
+SERVTYPE_IOTCAM_8126	AVIOCTRLDEFs.h	/^	SERVTYPE_IOTCAM_8126				= 0x12,$/;"	e	enum:__anon3
+SERVTYPE_IOTCAM_8126PT	AVIOCTRLDEFs.h	/^	SERVTYPE_IOTCAM_8126PT				= 0x13,	$/;"	e	enum:__anon3
+SERVTYPE_IPCAM_DWH	AVIOCTRLDEFs.h	/^	SERVTYPE_IPCAM_DWH					= 0x00,$/;"	e	enum:__anon3
+SERVTYPE_RAS_DWF	AVIOCTRLDEFs.h	/^	SERVTYPE_RAS_DWF					= 0x01,$/;"	e	enum:__anon3
+SERVTYPE_STREAM_SERVER	AVAPIs_Client.c	21;"	d	file:
+SERVTYPE_STREAM_SERVER	AVAPIs_Server.c	23;"	d	file:
+SID	AVAPIs_Client.c	/^    int SID;$/;"	m	struct:_AV_Server	file:
+SMsgAVIoctrlAVStream	AVIOCTRLDEFs.h	/^} SMsgAVIoctrlAVStream;$/;"	t	typeref:struct:__anon13
+SMsgAVIoctrlCurrentFlowInfo	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlCurrentFlowInfo;$/;"	t	typeref:struct:__anon65
+SMsgAVIoctrlDeviceInfoReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlDeviceInfoReq;$/;"	t	typeref:struct:__anon20
+SMsgAVIoctrlDeviceInfoResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlDeviceInfoResp;$/;"	t	typeref:struct:__anon21
+SMsgAVIoctrlEvent	AVIOCTRLDEFs.h	/^} SMsgAVIoctrlEvent;$/;"	t	typeref:struct:__anon46
+SMsgAVIoctrlFormatExtStorageReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlFormatExtStorageReq;$/;"	t	typeref:struct:__anon55
+SMsgAVIoctrlFormatExtStorageResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlFormatExtStorageResp;$/;"	t	typeref:struct:__anon56
+SMsgAVIoctrlGetAudioOutFormatReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetAudioOutFormatReq;$/;"	t	typeref:struct:__anon60
+SMsgAVIoctrlGetAudioOutFormatResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetAudioOutFormatResp;$/;"	t	typeref:struct:__anon61
+SMsgAVIoctrlGetDropbox	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetDropbox;$/;"	t	typeref:struct:__anon67
+SMsgAVIoctrlGetEnvironmentReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetEnvironmentReq;$/;"	t	typeref:struct:__anon49
+SMsgAVIoctrlGetEnvironmentResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetEnvironmentResp;$/;"	t	typeref:struct:__anon50
+SMsgAVIoctrlGetFlowInfoReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetFlowInfoReq;$/;"	t	typeref:struct:__anon63
+SMsgAVIoctrlGetFlowInfoResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetFlowInfoResp;$/;"	t	typeref:struct:__anon64
+SMsgAVIoctrlGetMotionDetectReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetMotionDetectReq;$/;"	t	typeref:struct:__anon17
+SMsgAVIoctrlGetMotionDetectResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetMotionDetectReq, SMsgAVIoctrlGetMotionDetectResp;$/;"	t	typeref:struct:__anon18
+SMsgAVIoctrlGetRcdDurationReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetRcdDurationReq;$/;"	t	typeref:struct:__anon36
+SMsgAVIoctrlGetRcdDurationResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetRcdDurationReq, SMsgAVIoctrlGetRcdDurationResp;$/;"	t	typeref:struct:__anon37
+SMsgAVIoctrlGetRecordReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetRecordReq;$/;"	t	typeref:struct:__anon33
+SMsgAVIoctrlGetRecordResq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetRecordReq, SMsgAVIoctrlGetRecordResq;$/;"	t	typeref:struct:__anon34
+SMsgAVIoctrlGetStreamCtrlReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetStreamCtrlReq;$/;"	t	typeref:struct:__anon14
+SMsgAVIoctrlGetStreamCtrlResq	AVIOCTRLDEFs.h	/^} SMsgAVIoctrlSetStreamCtrlReq, SMsgAVIoctrlGetStreamCtrlResq;$/;"	t	typeref:struct:__anon15
+SMsgAVIoctrlGetSupportStreamReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetSupportStreamReq;$/;"	t	typeref:struct:__anon58
+SMsgAVIoctrlGetSupportStreamResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetSupportStreamResp;$/;"	t	typeref:struct:__anon59
+SMsgAVIoctrlGetVideoModeReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetVideoModeReq;$/;"	t	typeref:struct:__anon53
+SMsgAVIoctrlGetVideoModeResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetVideoModeResp;$/;"	t	typeref:struct:__anon54
+SMsgAVIoctrlGetWifiReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetWifiReq;$/;"	t	typeref:struct:__anon30
+SMsgAVIoctrlGetWifiResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetWifiResp;$/;"	t	typeref:struct:__anon31
+SMsgAVIoctrlGetWifiResp2	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlGetWifiResp2;$/;"	t	typeref:struct:__anon32
+SMsgAVIoctrlListEventReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlListEventReq;$/;"	t	typeref:struct:__anon40
+SMsgAVIoctrlListEventResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlListEventResp;$/;"	t	typeref:struct:__anon42
+SMsgAVIoctrlListWifiApReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlListWifiApReq;$/;"	t	typeref:struct:__anon24
+SMsgAVIoctrlListWifiApResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlListWifiApResp;$/;"	t	typeref:struct:__anon26
+SMsgAVIoctrlPlayRecord	AVIOCTRLDEFs.h	/^} SMsgAVIoctrlPlayRecord;$/;"	t	typeref:struct:__anon43
+SMsgAVIoctrlPlayRecordResp	AVIOCTRLDEFs.h	/^} SMsgAVIoctrlPlayRecordResp; \/\/ only for play record start command$/;"	t	typeref:struct:__anon44
+SMsgAVIoctrlPtzCmd	AVIOCTRLDEFs.h	/^} SMsgAVIoctrlPtzCmd;$/;"	t	typeref:struct:__anon45
+SMsgAVIoctrlReceiveFirstIFrame	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlReceiveFirstIFrame;$/;"	t	typeref:struct:__anon62
+SMsgAVIoctrlSetDropbox	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetDropbox;$/;"	t	typeref:struct:__anon68
+SMsgAVIoctrlSetEnvironmentReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetEnvironmentReq;$/;"	t	typeref:struct:__anon47
+SMsgAVIoctrlSetEnvironmentResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetEnvironmentResp;$/;"	t	typeref:struct:__anon48
+SMsgAVIoctrlSetMotionDetectReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetMotionDetectReq, SMsgAVIoctrlGetMotionDetectResp;$/;"	t	typeref:struct:__anon18
+SMsgAVIoctrlSetMotionDetectResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetMotionDetectResp;$/;"	t	typeref:struct:__anon19
+SMsgAVIoctrlSetPasswdReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetPasswdReq;$/;"	t	typeref:struct:__anon22
+SMsgAVIoctrlSetPasswdResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetPasswdResp;$/;"	t	typeref:struct:__anon23
+SMsgAVIoctrlSetRcdDurationReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetRcdDurationReq, SMsgAVIoctrlGetRcdDurationResp;$/;"	t	typeref:struct:__anon37
+SMsgAVIoctrlSetRcdDurationResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetRcdDurationResp;$/;"	t	typeref:struct:__anon38
+SMsgAVIoctrlSetRecordReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetRecordReq, SMsgAVIoctrlGetRecordResq;$/;"	t	typeref:struct:__anon34
+SMsgAVIoctrlSetRecordResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetRecordResp;$/;"	t	typeref:struct:__anon35
+SMsgAVIoctrlSetStreamCtrlReq	AVIOCTRLDEFs.h	/^} SMsgAVIoctrlSetStreamCtrlReq, SMsgAVIoctrlGetStreamCtrlResq;$/;"	t	typeref:struct:__anon15
+SMsgAVIoctrlSetStreamCtrlResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetStreamCtrlResp;$/;"	t	typeref:struct:__anon16
+SMsgAVIoctrlSetVideoModeReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetVideoModeReq;$/;"	t	typeref:struct:__anon51
+SMsgAVIoctrlSetVideoModeResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetVideoModeResp;$/;"	t	typeref:struct:__anon52
+SMsgAVIoctrlSetWifiReq	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetWifiReq;$/;"	t	typeref:struct:__anon27
+SMsgAVIoctrlSetWifiReq2	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetWifiReq2;$/;"	t	typeref:struct:__anon28
+SMsgAVIoctrlSetWifiResp	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlSetWifiResp;$/;"	t	typeref:struct:__anon29
+SMsgAVIoctrlTimeZone	AVIOCTRLDEFs.h	/^}SMsgAVIoctrlTimeZone;$/;"	t	typeref:struct:__anon66
+SStreamDef	AVIOCTRLDEFs.h	/^}SStreamDef;$/;"	t	typeref:struct:__anon57
+STimeDay	AVIOCTRLDEFs.h	/^}STimeDay;$/;"	t	typeref:struct:__anon39
+SWifiAp	AVIOCTRLDEFs.h	/^}SWifiAp;$/;"	t	typeref:struct:__anon25
+UID	AVAPIs_Client.c	/^    char UID[21];$/;"	m	struct:_AV_Server	file:
+VIDEO_BUF_SIZE	AVAPIs_Client.c	387;"	d	file:
+VIDEO_BUF_SIZE	AVAPIs_Server.c	77;"	d	file:
+_AVFRAME_INFO_H_	AVFRAMEINFO.h	12;"	d
+_AVIOCTRL_DEFINE_H_	AVIOCTRLDEFs.h	77;"	d
+_AV_Client	AVAPIs_Server.c	/^typedef struct _AV_Client$/;"	s	file:
+_AV_Server	AVAPIs_Client.c	/^typedef struct _AV_Server$/;"	s	file:
+_FRAMEINFO	AVFRAMEINFO.h	/^typedef struct _FRAMEINFO$/;"	s
+audio_playback	AVAPIs_Client.c	/^void audio_playback(int fd, char *buf, int size)$/;"	f
+audio_playback	AVAPIs_Server.c	/^void audio_playback(int fd, char *buf, int size)$/;"	f
+aux	AVIOCTRLDEFs.h	/^	unsigned char aux;		\/\/ no use in APP so far. auxiliary switch, for RS485 PT$/;"	m	struct:__anon45
+avID	AVAPIs_Client.c	/^char avID[]="admin";$/;"	v
+avID	AVAPIs_Server.c	/^char avID[]="admin";$/;"	v
+avIndex	AVAPIs_Server.c	/^	int avIndex;$/;"	m	struct:_AV_Client	file:
+avPass	AVAPIs_Client.c	/^char avPass[]="888888";$/;"	v
+avPass	AVAPIs_Server.c	/^char avPass[]="888888";$/;"	v
+bEnableAudio	AVAPIs_Server.c	/^	unsigned char bEnableAudio;$/;"	m	struct:_AV_Client	file:
+bEnableSpeaker	AVAPIs_Server.c	/^	unsigned char bEnableSpeaker;$/;"	m	struct:_AV_Client	file:
+bEnableVideo	AVAPIs_Server.c	/^	unsigned char bEnableVideo;$/;"	m	struct:_AV_Client	file:
+bPausePlayBack	AVAPIs_Server.c	/^	unsigned char bPausePlayBack;$/;"	m	struct:_AV_Client	file:
+bStopPlayBack	AVAPIs_Server.c	/^	unsigned char bStopPlayBack;$/;"	m	struct:_AV_Client	file:
+cam_index	AVFRAMEINFO.h	/^	unsigned char cam_index;	\/\/ 0 - n$/;"	m	struct:_FRAMEINFO
+cbSize	AVIOCTRLDEFs.h	/^	int cbSize;							\/\/ the following package size in bytes, should be sizeof(SMsgAVIoctrlTimeZone)$/;"	m	struct:__anon66
+channel	AVIOCTRLDEFs.h	/^	unsigned char channel;	\/\/ camera index$/;"	m	struct:__anon45
+channel	AVIOCTRLDEFs.h	/^	unsigned int  channel;		\/\/ Camera Index$/;"	m	struct:__anon42
+channel	AVIOCTRLDEFs.h	/^	unsigned int  channel;	\/\/ Camera Index$/;"	m	struct:__anon15
+channel	AVIOCTRLDEFs.h	/^	unsigned int  channel; 	\/\/ Camera Index$/;"	m	struct:__anon46
+channel	AVIOCTRLDEFs.h	/^	unsigned int  channel; 	\/\/ Camera Index$/;"	m	struct:__anon54
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel;						\/\/ camera index$/;"	m	struct:__anon65
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel;			\/\/ camera index$/;"	m	struct:__anon63
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel;			\/\/ camera index$/;"	m	struct:__anon64
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel;		\/\/ Camera Index$/;"	m	struct:__anon34
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel;		\/\/ Camera Index$/;"	m	struct:__anon47
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel;		\/\/ Camera index$/;"	m	struct:__anon21
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel;		\/\/ camera index$/;"	m	struct:__anon60
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel;		\/\/ camera index$/;"	m	struct:__anon61
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel;		\/\/ camera index$/;"	m	struct:__anon62
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel;	\/\/ Camera Index$/;"	m	struct:__anon14
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel;	\/\/ Camera Index$/;"	m	struct:__anon43
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel;	\/\/ Camera Index$/;"	m	struct:__anon51
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel; 		\/\/ Camera Index$/;"	m	struct:__anon18
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel; 		\/\/ Camera Index$/;"	m	struct:__anon37
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel; 		\/\/ Camera Index$/;"	m	struct:__anon40
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel; 		\/\/ Camera Index$/;"	m	struct:__anon48
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel; 		\/\/ Camera Index$/;"	m	struct:__anon50
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel; 	\/\/ Camera Index$/;"	m	struct:__anon17
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel; 	\/\/ Camera Index$/;"	m	struct:__anon49
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel; 	\/\/ Camera Index$/;"	m	struct:__anon52
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel; 	\/\/ Camera Index$/;"	m	struct:__anon53
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel; \/\/ Camera Index$/;"	m	struct:__anon13
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel; \/\/ Camera Index$/;"	m	struct:__anon33
+channel	AVIOCTRLDEFs.h	/^	unsigned int channel; \/\/ Camera Index$/;"	m	struct:__anon36
+channel	AVIOCTRLDEFs.h	/^	unsigned short channel;		\/\/ the channel index used in AVAPIs, that is ChID in avServStart2(...,ChID)$/;"	m	struct:__anon57
+close_dsp	AVAPIs_Client.c	/^void close_dsp(int fd)$/;"	f
+close_dsp	AVAPIs_Server.c	/^void close_dsp(int fd)$/;"	f
+close_videoX	AVAPIs_Client.c	/^void close_videoX(int fd)$/;"	f
+codec_id	AVFRAMEINFO.h	/^	unsigned short codec_id;	\/\/ Media codec type defined in sys_mmdef.h,$/;"	m	struct:_FRAMEINFO
+collect_interval	AVIOCTRLDEFs.h	/^	unsigned int collect_interval;	\/\/ seconds of interval client will collect flow information$/;"	m	struct:__anon64
+collect_interval	AVIOCTRLDEFs.h	/^	unsigned int collect_interval;	\/\/ seconds of interval to collect flow information$/;"	m	struct:__anon63
+command	AVIOCTRLDEFs.h	/^	unsigned int command;	\/\/ Play record command. refer to ENUM_PLAYCONTROL$/;"	m	struct:__anon44
+command	AVIOCTRLDEFs.h	/^	unsigned int command;	\/\/ play record command. refer to ENUM_PLAYCONTROL$/;"	m	struct:__anon43
+control	AVIOCTRLDEFs.h	/^	unsigned char control;	\/\/ PTZ control command, refer to ENUM_PTZCMD$/;"	m	struct:__anon45
+count	AVIOCTRLDEFs.h	/^	unsigned char count;		\/\/ how much events in this package$/;"	m	struct:__anon42
+create_streamout_thread	AVAPIs_Server.c	/^void create_streamout_thread()$/;"	f
+day	AVIOCTRLDEFs.h	/^	unsigned char day;		\/\/ The day of the month, in the range 1 to 31.$/;"	m	struct:__anon39
+durasecond	AVIOCTRLDEFs.h	/^	unsigned int durasecond;	\/\/ recording (sec)$/;"	m	struct:__anon37
+enctype	AVIOCTRLDEFs.h	/^	char enctype;  				\/\/ refer to ENUM_AP_ENCTYPE$/;"	m	struct:__anon25
+enctype	AVIOCTRLDEFs.h	/^	unsigned char enctype;			\/\/refer to ENUM_AP_ENCTYPE$/;"	m	struct:__anon27
+enctype	AVIOCTRLDEFs.h	/^	unsigned char enctype;		\/\/ refer to ENUM_AP_ENCTYPE$/;"	m	struct:__anon28
+enctype	AVIOCTRLDEFs.h	/^	unsigned char enctype;		\/\/ refer to ENUM_AP_ENCTYPE$/;"	m	struct:__anon31
+enctype	AVIOCTRLDEFs.h	/^ unsigned char enctype; \/\/ refer to ENUM_AP_ENCTYPE$/;"	m	struct:__anon32
+endflag	AVIOCTRLDEFs.h	/^	unsigned char endflag;		\/\/ end flag; endFlag = 1 means this package is the last one.$/;"	m	struct:__anon42
+event	AVIOCTRLDEFs.h	/^	unsigned char event;  		\/\/ event type, refer to ENUM_EVENTTYPE$/;"	m	struct:__anon40
+event	AVIOCTRLDEFs.h	/^	unsigned char event;$/;"	m	struct:__anon41
+event	AVIOCTRLDEFs.h	/^	unsigned int  event; 	\/\/ Event Type$/;"	m	struct:__anon46
+flags	AVFRAMEINFO.h	/^	unsigned char flags;		\/\/ Combined with IPC_FRAME_xxx.$/;"	m	struct:_FRAMEINFO
+format	AVIOCTRLDEFs.h	/^	int format;					\/\/ refer to ENUM_CODECID in AVFRAMEINFO.h$/;"	m	struct:__anon61
+free	AVIOCTRLDEFs.h	/^	unsigned int free;			\/\/ Free space size of sdcard (MBytes)$/;"	m	struct:__anon21
+gAudioFn	AVAPIs_Server.c	/^static char gAudioFn[128];$/;"	v	file:
+gClientInfo	AVAPIs_Server.c	/^static AV_Client gClientInfo[MAX_CLIENT_NUMBER];$/;"	v	file:
+gEventList	AVAPIs_Server.c	/^SMsgAVIoctrlListEventResp *gEventList;$/;"	v
+gOnlineNum	AVAPIs_Server.c	/^static int gOnlineNum = 0;$/;"	v	file:
+gProcessRun	AVAPIs_Server.c	/^static int gProcessRun = 1;$/;"	v	file:
+gPushMsgSrvAddr	AVAPIs_Server.c	/^struct sockaddr_in gPushMsgSrvAddr;$/;"	v	typeref:struct:sockaddr_in
+gSleepMs	AVAPIs_Client.c	/^int gSleepMs = 10;$/;"	v
+gUID	AVAPIs_Server.c	/^static char gUID[21];$/;"	v	file:
+gVideoFn	AVAPIs_Server.c	/^static char gVideoFn[128];$/;"	v	file:
+g_nAudioIndex	AVAPIs_Server.c	/^int32_t g_nAudioIndex=0;$/;"	v
+g_nAudioPreSample	AVAPIs_Server.c	/^int32_t g_nAudioPreSample=0;$/;"	v
+gbSearchEvent	AVAPIs_Server.c	/^static int gbSearchEvent = 0;$/;"	v	file:
+getTimeStamp	AVAPIs_Server.c	/^unsigned int getTimeStamp()$/;"	f
+gs_index_adjust	AVAPIs_Server.c	/^static int gs_index_adjust[8]= {-1,-1,-1,-1,2,4,6,8};$/;"	v	file:
+gs_step_table	AVAPIs_Server.c	/^static int gs_step_table[89] =$/;"	v	file:
+hour	AVIOCTRLDEFs.h	/^	unsigned char hour;     \/\/ The number of hours past midnight, in the range 0 to 23.$/;"	m	struct:__anon39
+index	AVIOCTRLDEFs.h	/^	unsigned char index;		\/\/ package index, 0,1,2...; $/;"	m	struct:__anon42
+index	AVIOCTRLDEFs.h	/^	unsigned short index;		\/\/ the stream index of camera$/;"	m	struct:__anon57
+limit	AVIOCTRLDEFs.h	/^	unsigned char limit;	\/\/ no use in APP so far. $/;"	m	struct:__anon45
+lost_incomplete_frame_count	AVIOCTRLDEFs.h	/^	unsigned int lost_incomplete_frame_count;	\/\/ Total lost and incomplete frame count in the specified interval$/;"	m	struct:__anon65
+main	AVAPIs_Client.c	/^int main(int argc, char *argv[])$/;"	f
+main	AVAPIs_Server.c	/^int main(int argc, char *argv[])$/;"	f
+minute	AVIOCTRLDEFs.h	/^	unsigned char minute;   \/\/ The number of minutes after the hour, in the range 0 to 59.$/;"	m	struct:__anon39
+mode	AVIOCTRLDEFs.h	/^	char mode;	   				\/\/ refer to ENUM_AP_MODE$/;"	m	struct:__anon25
+mode	AVIOCTRLDEFs.h	/^	unsigned char mode;				\/\/refer to ENUM_AP_MODE$/;"	m	struct:__anon27
+mode	AVIOCTRLDEFs.h	/^	unsigned char mode;			\/\/ refer to ENUM_AP_MODE$/;"	m	struct:__anon28
+mode	AVIOCTRLDEFs.h	/^	unsigned char mode;			\/\/ refer to ENUM_AP_MODE$/;"	m	struct:__anon31
+mode	AVIOCTRLDEFs.h	/^	unsigned char mode;			\/\/ refer to ENUM_ENVIRONMENT_MODE$/;"	m	struct:__anon47
+mode	AVIOCTRLDEFs.h	/^	unsigned char mode;			\/\/ refer to ENUM_ENVIRONMENT_MODE$/;"	m	struct:__anon50
+mode	AVIOCTRLDEFs.h	/^	unsigned char mode;		\/\/ refer to ENUM_VIDEO_MODE$/;"	m	struct:__anon51
+mode	AVIOCTRLDEFs.h	/^	unsigned char mode;		\/\/ refer to ENUM_VIDEO_MODE$/;"	m	struct:__anon54
+mode	AVIOCTRLDEFs.h	/^ unsigned char mode;	\/\/ refer to ENUM_AP_MODE$/;"	m	struct:__anon32
+model	AVIOCTRLDEFs.h	/^	unsigned char model[16];	\/\/ IPCam mode$/;"	m	struct:__anon21
+month	AVIOCTRLDEFs.h	/^	unsigned char month;	\/\/ The number of months since January, in the range 1 to 12.$/;"	m	struct:__anon39
+nGMTDiff	AVIOCTRLDEFs.h	/^	int nGMTDiff;						\/\/ the difference between GMT in hours$/;"	m	struct:__anon66
+nIsSupportTimeZone	AVIOCTRLDEFs.h	/^	int nIsSupportTimeZone;$/;"	m	struct:__anon66
+nLinked	AVIOCTRLDEFs.h	/^    unsigned short nLinked;             \/\/ 0:no link\/ 1:linked$/;"	m	struct:__anon67
+nLinked	AVIOCTRLDEFs.h	/^    unsigned short nLinked;             \/\/ 0:no link\/ 1:linked$/;"	m	struct:__anon68
+nSupportDropbox	AVIOCTRLDEFs.h	/^    unsigned short nSupportDropbox;     \/\/ 0:no support\/ 1: support dropbox$/;"	m	struct:__anon67
+newpasswd	AVIOCTRLDEFs.h	/^	char newpasswd[32];			\/\/ The new security code$/;"	m	struct:__anon22
+number	AVIOCTRLDEFs.h	/^	unsigned int number; 		\/\/ the quanity of supported audio&video stream or video stream$/;"	m	struct:__anon59
+number	AVIOCTRLDEFs.h	/^	unsigned int number; \/\/ MAX number: 1024(IOCtrl packet size) \/ 36(bytes) = 28$/;"	m	struct:__anon26
+oldpasswd	AVIOCTRLDEFs.h	/^	char oldpasswd[32];			\/\/ The old security code$/;"	m	struct:__anon22
+onlineNum	AVFRAMEINFO.h	/^	unsigned char onlineNum;	\/\/ number of client connected this device$/;"	m	struct:_FRAMEINFO
+open_dsp	AVAPIs_Client.c	/^int open_dsp()$/;"	f
+open_dsp	AVAPIs_Server.c	/^int open_dsp()$/;"	f
+open_videoX	AVAPIs_Client.c	/^int open_videoX()$/;"	f
+pFileLog	AVAPIs_Server.c	/^FILE *pFileLog;$/;"	v
+password	AVIOCTRLDEFs.h	/^	unsigned char password[32];		\/\/if exist, WiFi password$/;"	m	struct:__anon27
+password	AVIOCTRLDEFs.h	/^	unsigned char password[32]; \/\/ WiFi password if not empty$/;"	m	struct:__anon31
+password	AVIOCTRLDEFs.h	/^	unsigned char password[64];	\/\/ if exist, WiFi password$/;"	m	struct:__anon28
+password	AVIOCTRLDEFs.h	/^ unsigned char password[64]; \/\/ WiFi password if not empty$/;"	m	struct:__anon32
+platform	Makefile	/^        platform=x86$/;"	m
+platform	Makefile	/^platform=x86$/;"	m
+playBackCh	AVAPIs_Server.c	/^	int playBackCh;$/;"	m	struct:_AV_Client	file:
+playRecord	AVAPIs_Server.c	/^	SMsgAVIoctrlPlayRecord playRecord;$/;"	m	struct:_AV_Client	file:
+point	AVIOCTRLDEFs.h	/^	unsigned char point;	\/\/ no use in APP so far. preset position, for RS485 PT$/;"	m	struct:__anon45
+presecond	AVIOCTRLDEFs.h	/^	unsigned int presecond; 	\/\/ pre-recording (sec)$/;"	m	struct:__anon37
+quality	AVIOCTRLDEFs.h	/^	unsigned char quality;	\/\/refer to ENUM_QUALITY_LEVEL$/;"	m	struct:__anon15
+recordType	AVIOCTRLDEFs.h	/^	unsigned int recordType;	\/\/ Refer to ENUM_RECORD_TYPE$/;"	m	struct:__anon34
+regedit_client_to_audio	AVAPIs_Server.c	/^void regedit_client_to_audio(int SID, int avIndex)$/;"	f
+regedit_client_to_video	AVAPIs_Server.c	/^void regedit_client_to_video(int SID, int avIndex)$/;"	f
+reserve	AVIOCTRLDEFs.h	/^	unsigned char reserve[2];$/;"	m	struct:__anon45
+reserve1	AVFRAMEINFO.h	/^	unsigned char reserve1[3];$/;"	m	struct:_FRAMEINFO
+reserve2	AVFRAMEINFO.h	/^	unsigned int reserve2;	\/\/$/;"	m	struct:_FRAMEINFO
+reserved	AVIOCTRLDEFs.h	/^	char reserved[4];$/;"	m	struct:__anon57
+reserved	AVIOCTRLDEFs.h	/^	char reserved[4];$/;"	m	struct:__anon60
+reserved	AVIOCTRLDEFs.h	/^	char reserved[4];$/;"	m	struct:__anon61
+reserved	AVIOCTRLDEFs.h	/^	char reserved[4];$/;"	m	struct:__anon62
+reserved	AVIOCTRLDEFs.h	/^	char reserved[8];$/;"	m	struct:__anon65
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[10];$/;"	m	struct:__anon27
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[10];$/;"	m	struct:__anon28
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[1];$/;"	m	struct:__anon42
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[2];$/;"	m	struct:__anon40
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[2];$/;"	m	struct:__anon41
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[3];$/;"	m	struct:__anon15
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[3];$/;"	m	struct:__anon47
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[3];$/;"	m	struct:__anon48
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[3];$/;"	m	struct:__anon50
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[3];$/;"	m	struct:__anon51
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[3];$/;"	m	struct:__anon52
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[3];$/;"	m	struct:__anon54
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[3];$/;"	m	struct:__anon56
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon13
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon14
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon16
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon17
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon19
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon20
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon23
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon24
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon29
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon30
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon33
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon34
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon35
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon36
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon38
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon43
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon44
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon46
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon49
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon53
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon55
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[4];$/;"	m	struct:__anon58
+reserved	AVIOCTRLDEFs.h	/^	unsigned char reserved[8];	\/\/ reserved$/;"	m	struct:__anon21
+result	AVIOCTRLDEFs.h	/^	int result;	\/\/ 0: success; otherwise: failed.$/;"	m	struct:__anon16
+result	AVIOCTRLDEFs.h	/^	int result;	\/\/ 0: success; otherwise: failed.$/;"	m	struct:__anon19
+result	AVIOCTRLDEFs.h	/^	int result;	\/\/ 0: success; otherwise: failed.$/;"	m	struct:__anon23
+result	AVIOCTRLDEFs.h	/^	int result;	\/\/ 0: success; otherwise: failed.$/;"	m	struct:__anon35
+result	AVIOCTRLDEFs.h	/^	int result;	\/\/ 0: success; otherwise: failed.$/;"	m	struct:__anon38
+result	AVIOCTRLDEFs.h	/^	int result; \/\/0: wifi connected; 1: failed to connect$/;"	m	struct:__anon29
+result	AVIOCTRLDEFs.h	/^	unsigned char result;		\/\/ 0: success; otherwise: failed.$/;"	m	struct:__anon48
+result	AVIOCTRLDEFs.h	/^	unsigned char result;	\/\/ 0: success; otherwise: failed.$/;"	m	struct:__anon52
+result	AVIOCTRLDEFs.h	/^	unsigned char result;	\/\/ 0: success;$/;"	m	struct:__anon56
+result	AVIOCTRLDEFs.h	/^	unsigned int result; 	\/\/ Depends on command$/;"	m	struct:__anon44
+sLock	AVAPIs_Server.c	/^	pthread_rwlock_t sLock;$/;"	m	struct:_AV_Client	file:
+second	AVIOCTRLDEFs.h	/^	unsigned char second;   \/\/ The number of seconds after the minute, in the range 0 to 59.$/;"	m	struct:__anon39
+sensitivity	AVIOCTRLDEFs.h	/^	unsigned int sensitivity; 	\/\/ 0(Disabled) ~ 100(MAX):$/;"	m	struct:__anon18
+signal	AVIOCTRLDEFs.h	/^	char signal;   				\/\/ signal intensity 0--100%$/;"	m	struct:__anon25
+signal	AVIOCTRLDEFs.h	/^	unsigned char signal;		\/\/ signal intensity 0--100%$/;"	m	struct:__anon31
+signal	AVIOCTRLDEFs.h	/^ unsigned char signal;  \/\/ signal intensity 0--100%$/;"	m	struct:__anon32
+speakerCh	AVAPIs_Client.c	/^    int speakerCh;$/;"	m	struct:_AV_Server	file:
+speakerCh	AVAPIs_Server.c	/^	int speakerCh;$/;"	m	struct:_AV_Client	file:
+speed	AVIOCTRLDEFs.h	/^	unsigned char speed;	\/\/ PTZ control speed$/;"	m	struct:__anon45
+ssid	AVIOCTRLDEFs.h	/^	char ssid[32]; 				\/\/ WiFi ssid$/;"	m	struct:__anon25
+ssid	AVIOCTRLDEFs.h	/^	unsigned char ssid[32];			\/\/WiFi ssid$/;"	m	struct:__anon27
+ssid	AVIOCTRLDEFs.h	/^	unsigned char ssid[32];		\/\/ WiFi ssid$/;"	m	struct:__anon28
+ssid	AVIOCTRLDEFs.h	/^	unsigned char ssid[32];		\/\/ WiFi ssid$/;"	m	struct:__anon31
+ssid	AVIOCTRLDEFs.h	/^ unsigned char ssid[32];	 \/\/ WiFi ssid$/;"	m	struct:__anon32
+stEndTime	AVIOCTRLDEFs.h	/^	STimeDay stEndTime;	  		\/\/ ... to (search event)$/;"	m	struct:__anon40
+stEvent	AVIOCTRLDEFs.h	/^	SAvEvent stEvent[1];		\/\/ The first memory address of the events in this package$/;"	m	struct:__anon42
+stStartTime	AVIOCTRLDEFs.h	/^	STimeDay stStartTime; 		\/\/ Search event from ...$/;"	m	struct:__anon40
+stTime	AVIOCTRLDEFs.h	/^	STimeDay stTime;$/;"	m	struct:__anon41
+stTime	AVIOCTRLDEFs.h	/^	STimeDay stTime;$/;"	m	struct:__anon46
+stTimeDay	AVIOCTRLDEFs.h	/^	STimeDay stTimeDay;		\/\/ Event time from ListEvent$/;"	m	struct:__anon43
+stWifiAp	AVIOCTRLDEFs.h	/^	SWifiAp stWifiAp[1];$/;"	m	struct:__anon26
+start_ipcam_stream	AVAPIs_Client.c	/^int start_ipcam_stream(int avIndex, AV_Server *ServerInfo)$/;"	f
+status	AVIOCTRLDEFs.h	/^	char status;   				\/\/ 0 : invalid ssid or disconnected$/;"	m	struct:__anon25
+status	AVIOCTRLDEFs.h	/^	unsigned char status;		\/\/ refer to "status" of SWifiAp$/;"	m	struct:__anon31
+status	AVIOCTRLDEFs.h	/^	unsigned char status;	\/\/ 0x00: Recording file exists, Event unreaded$/;"	m	struct:__anon41
+status	AVIOCTRLDEFs.h	/^	unsigned char status; 		\/\/ 0x00: Recording file exists, Event unreaded$/;"	m	struct:__anon40
+status	AVIOCTRLDEFs.h	/^ unsigned char status;  \/\/ refer to "status" of SWifiAp$/;"	m	struct:__anon32
+storage	AVIOCTRLDEFs.h	/^	unsigned int  storage; 	\/\/ Storage index$/;"	m	struct:__anon56
+storage	AVIOCTRLDEFs.h	/^	unsigned int storage; 	\/\/ Storage index (ex. sdcard slot = 0, internal flash = 1, ...)$/;"	m	struct:__anon55
+streams	AVIOCTRLDEFs.h	/^	SStreamDef streams[1];$/;"	m	struct:__anon59
+szAccessToken	AVIOCTRLDEFs.h	/^    char szAccessToken[128];             \/\/ Oauth token$/;"	m	struct:__anon68
+szAccessTokenSecret	AVIOCTRLDEFs.h	/^    char szAccessTokenSecret[128];       \/\/ Oauth token secret$/;"	m	struct:__anon68
+szAppKey	AVIOCTRLDEFs.h	/^	char szAppKey[128];                  \/\/ App Key (reserved)$/;"	m	struct:__anon68
+szLinkUDID	AVIOCTRLDEFs.h	/^    char szLinkUDID[64];                \/\/ Link UDID for App$/;"	m	struct:__anon67
+szLinkUDID	AVIOCTRLDEFs.h	/^    char szLinkUDID[64];                \/\/ UDID for App$/;"	m	struct:__anon68
+szSecret	AVIOCTRLDEFs.h	/^	char szSecret[128];                  \/\/ Secret  (reserved)$/;"	m	struct:__anon68
+szTimeZoneString	AVIOCTRLDEFs.h	/^	char szTimeZoneString[256];			\/\/ the timezone description string in multi-bytes char format$/;"	m	struct:__anon66
+thread_AudioFrameData	AVAPIs_Server.c	/^void *thread_AudioFrameData(void *arg)$/;"	f
+thread_ConnectCCR	AVAPIs_Client.c	/^void *thread_ConnectCCR(void *arg)$/;"	f
+thread_ForAVServerStart	AVAPIs_Server.c	/^void *thread_ForAVServerStart(void *arg)$/;"	f
+thread_Login	AVAPIs_Server.c	/^void *thread_Login(void *arg)$/;"	f
+thread_PlayBack	AVAPIs_Server.c	/^void *thread_PlayBack(void *arg)$/;"	f
+thread_ReceiveAudio	AVAPIs_Client.c	/^void *thread_ReceiveAudio(void *arg)$/;"	f
+thread_ReceiveAudio	AVAPIs_Server.c	/^void *thread_ReceiveAudio(void *arg)$/;"	f
+thread_ReceiveVideo	AVAPIs_Client.c	/^void *thread_ReceiveVideo(void *arg)$/;"	f
+thread_Speaker	AVAPIs_Client.c	/^void *thread_Speaker(void *arg)$/;"	f
+thread_VideoFrameData	AVAPIs_Server.c	/^void *thread_VideoFrameData(void *arg)$/;"	f
+time	AVIOCTRLDEFs.h	/^	unsigned long time; 	\/\/ UTC Time$/;"	m	struct:__anon46
+timestamp	AVFRAMEINFO.h	/^	unsigned int timestamp;	\/\/ Timestamp of the frame, in milliseconds$/;"	m	struct:_FRAMEINFO
+timestamp_ms	AVIOCTRLDEFs.h	/^	unsigned int timestamp_ms;					\/\/ Timestamp in millisecond of this report.$/;"	m	struct:__anon65
+total	AVIOCTRLDEFs.h	/^	unsigned int  total;		\/\/ Total event amount in this search session$/;"	m	struct:__anon42
+total	AVIOCTRLDEFs.h	/^	unsigned int total;			\/\/ 0: No cards been detected or an unrecognizeable sdcard that could not be re-formatted.$/;"	m	struct:__anon21
+total_actual_frame_size	AVIOCTRLDEFs.h	/^	unsigned int total_actual_frame_size;		\/\/ Total actual frame size from avRecvFrameData2()$/;"	m	struct:__anon65
+total_expected_frame_size	AVIOCTRLDEFs.h	/^	unsigned int total_expected_frame_size;		\/\/ Total expected frame size from avRecvFrameData2()$/;"	m	struct:__anon65
+total_frame_count	AVIOCTRLDEFs.h	/^	unsigned int total_frame_count;				\/\/ Total frame count in the specified interval$/;"	m	struct:__anon65
+tv	AVAPIs_Client.c	/^struct timeval tv;$/;"	v	typeref:struct:timeval
+unregedit_client_from_audio	AVAPIs_Server.c	/^void unregedit_client_from_audio(int SID)$/;"	f
+unregedit_client_from_video	AVAPIs_Server.c	/^void unregedit_client_from_video(int SID)$/;"	f
+vendor	AVIOCTRLDEFs.h	/^	unsigned char vendor[16];	\/\/ IPCam manufacturer$/;"	m	struct:__anon21
+version	AVIOCTRLDEFs.h	/^	unsigned int version;		\/\/ IPCam firmware version	ex. v1.2.3.4 => 0x01020304;  v1.0.0.2 => 0x01000002$/;"	m	struct:__anon21
+video_draw	AVAPIs_Client.c	/^void video_draw(int fd, char *buf, int size)$/;"	f
+wday	AVIOCTRLDEFs.h	/^	unsigned char wday;		\/\/ The number of days since Sunday, in the range 0 to 6. (Sunday = 0, Monday = 1, ...)$/;"	m	struct:__anon39
+year	AVIOCTRLDEFs.h	/^	unsigned short year;	\/\/ The number of year.$/;"	m	struct:__anon39
