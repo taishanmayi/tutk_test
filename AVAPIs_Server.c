@@ -907,18 +907,10 @@ void *thread_ForAVServerStart(void *arg)
 			
 			char time_buf[50] = {0};
 			sprintf(time_buf,"%s",ctime(&now));
-
-			int n_wr = write(connect_msg_fd,time_buf,strlen(time_buf));
-			if(n_wr < 0)
-			{
-				perror("fail to write connect message");
-				close(connect_msg_fd);
-				exit(-1);
-			}
-
+			time_buf[strlen(time_buf) - 1] = 0;
 			char buf[256] = {0};
-			sprintf(buf,"Client is from[IP:%s, Port:%d] Mode[%s] NAT[%d] Time_Consume[%d.%ds]\n", Sinfo.RemoteIP, Sinfo.RemotePort, mode[(int)Sinfo.Mode], Sinfo.NatType,second,msecond);
-			n_wr = write(connect_msg_fd,buf,strlen(buf));
+			sprintf(buf,"%s: Client is from[IP:%s, Port:%d] Mode[%s] NAT[%d] Time_Consume[%d.%ds]\n",time_buf ,Sinfo.RemoteIP, Sinfo.RemotePort, mode[(int)Sinfo.Mode], Sinfo.NatType,second,msecond);
+			int n_wr = write(connect_msg_fd,buf,strlen(buf));
 			if(n_wr < 0)
 			{
 				perror("fail to write connect message");
