@@ -1351,7 +1351,19 @@ int main(int argc, char *argv[])
 	int ret , SID;
 	pthread_t ThreadLogin_ID;
 
-	strcpy(gUID, "F5UU995WPHVMVNPGU1YJ");
+	if(argc < 2)
+	{
+		printf("usage: ./server UID\n");
+		printf("avaliable UID : F5UU995WPHVMVNPGU1YJ\n\
+		FDYU8D5MR9BW8NPGY1P1\n\
+		F1YUAD5WZHBWSM6GU1C1\n\
+		FDPUBD5CK1VM8N6GY1C1\n\
+		D5UA9954ZXBC8MPGY1C1\n");
+		exit(0);
+	}
+
+
+	strcpy(gUID, argv[1]);
 	strcpy(gVideoFn, "video.VGA");
 	/*strcpy(gAudioFn, argv[3]);*/
 	memset(gAudioFn, 0, sizeof(gAudioFn));
